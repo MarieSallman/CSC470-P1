@@ -21,5 +21,10 @@ namespace P1_Code
         {
             this.CenterToScreen();
         }
+
+        private void Exit_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
     }
 }
