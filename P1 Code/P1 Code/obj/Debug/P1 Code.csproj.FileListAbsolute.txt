@@ -18,3 +18,13 @@ C:\Users\natha\Source\Repos\CSC470-P1-2\P1 Code\P1 Code\obj\Debug\P1 Code.csproj
 C:\Users\natha\Source\Repos\CSC470-P1-2\P1 Code\P1 Code\obj\Debug\P1 Code.csproj.CoreCompileInputs.cache
 C:\Users\natha\Source\Repos\CSC470-P1-2\P1 Code\P1 Code\obj\Debug\P1 Code.exe
 C:\Users\natha\Source\Repos\CSC470-P1-2\P1 Code\P1 Code\obj\Debug\P1 Code.pdb
+C:\Users\natha\source\repos\CSC470-P1-3\P1 Code\P1 Code\bin\Debug\P1 Code.exe.config
+C:\Users\natha\source\repos\CSC470-P1-3\P1 Code\P1 Code\bin\Debug\P1 Code.exe
+C:\Users\natha\source\repos\CSC470-P1-3\P1 Code\P1 Code\bin\Debug\P1 Code.pdb
+C:\Users\natha\source\repos\CSC470-P1-3\P1 Code\P1 Code\obj\Debug\P1 Code.csprojAssemblyReference.cache
+C:\Users\natha\source\repos\CSC470-P1-3\P1 Code\P1 Code\obj\Debug\P1_Code.Form1.resources
+C:\Users\natha\source\repos\CSC470-P1-3\P1 Code\P1 Code\obj\Debug\P1_Code.Properties.Resources.resources
+C:\Users\natha\source\repos\CSC470-P1-3\P1 Code\P1 Code\obj\Debug\P1 Code.csproj.GenerateResource.cache
+C:\Users\natha\source\repos\CSC470-P1-3\P1 Code\P1 Code\obj\Debug\P1 Code.csproj.CoreCompileInputs.cache
+C:\Users\natha\source\repos\CSC470-P1-3\P1 Code\P1 Code\obj\Debug\P1 Code.exe
+C:\Users\natha\source\repos\CSC470-P1-3\P1 Code\P1 Code\obj\Debug\P1 Code.pdb

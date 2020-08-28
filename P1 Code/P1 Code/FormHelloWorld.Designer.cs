@@ -1,6 +1,6 @@
 ﻿namespace P1_Code
 {
-    partial class Form1
+    partial class FormHelloWorld
     {
         /// <summary>
         /// Required designer variable.
